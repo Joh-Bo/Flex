@@ -1,0 +1,22 @@
+#container{
+  border: 2px solid red;
+  width: 200px;
+  height: 300px;
+  display: flex;
+  justify-content: space-around;
+}
+.element{
+  border: 1px solid black;
+  text-align: center;
+  height: 60px;
+  width: 60px;
+}
+.un{
+  background: pink;
+}
+.deux{
+  background: green;
+}
+.trois{
+  background: blue;
+}
